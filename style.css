@@ -51,7 +51,7 @@ img{
 #nav{
   margin:0px;
   padding:15px 30px 10px 30px;
-  background-image: url(menu-bg.png);
+  background-image: url="images/menu-bg.png";
 }
 #nav li a:link{
   color: #f5f3eb;
@@ -72,7 +72,7 @@ img{
 
 /*すべてのページに適用 - footer -*/
 #footer{
-  background-image: url(footer-bg.png);
+  background-image: url="images/footer-bg.png";
   background-repeat: repeat-x;
   margin:30px;
   padding:20px 0;
